@@ -219,16 +219,17 @@
     }
 
 
-Bonus Question: Center the text inside heading #1
+**** Bonus **** Center the text both vertically and horizontally inside div #1
 
-    #div-one {
-        height: 500px;
-        width: 700px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-    }
+#div-one {
+    height: 500px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
 
 */
 
