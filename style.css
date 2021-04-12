@@ -1,0 +1,236 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    font-size: 1.5rem;
+}
+
+#div-one {
+    border: 2px solid #000;
+}
+
+#div-two {
+    border: 2px solid #000;
+}
+
+#div-three {
+    border: 2px solid #000;
+}
+
+/* 1. Change all the text within the paragraph tags to the color blue */
+
+
+
+
+
+
+
+    
+
+/* 2. Change the text within heading one to red */
+
+
+
+
+
+
+   
+
+/* 3. Change the background color of div two to yellow */
+
+
+
+
+
+
+
+
+/* 4. Change the background colors of both div one and div three to green */
+
+
+
+
+
+
+
+
+/* 5. Center the text inside of div two */
+
+
+
+
+
+
+
+
+/* 6. Align the text inside of div three to the right */
+
+
+
+
+
+
+
+
+/* 7. Make the text of paragraph three bold */
+
+
+
+
+
+
+
+
+/* 8. Make div two 400 pixels tall and 400 pixels wide */
+
+
+
+
+
+
+
+
+/* 9. Make div two display in the center of the page */
+
+
+
+
+
+
+
+
+/* 10. Make all three divs appear side by side */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Answers
+
+#1 
+    p {
+        color: blue;
+    }
+
+
+#2  
+    #div-one h1 {
+        color: red;
+    }
+
+
+#3
+    #div-two {
+    background-color: yellow;
+    }
+
+
+#4 
+    #div-one,
+    #div-three {
+    background-color: green;
+    }
+
+
+#5
+    #div-two {
+        text-align: center;
+    }
+
+
+#6
+    #div-three {
+        text-align: right;
+    }
+
+
+#7 
+    .para-three {
+        font-weight: bold;
+    }
+
+
+#8
+    #div-two {
+    width: 400px;
+    height: 400px;
+}
+
+
+#9 
+    #div-two {
+    margin: auto;
+}
+
+
+#10
+    #div-one,
+    #div-two,
+    #div-three {
+        display: inline-block;
+    }
+
+
+Bonus Center the text inside heading #1
+
+height: 500px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+
+*/
+
+
+
+
+
